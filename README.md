@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adaobi Okwuosa</h1>
-<h3 align="center">A passionate frontend developer from Nigeria skilled in Html,Css,Bootstrap,Tailwind css,Sass,Javascript,Typescript,React and Next js .I also have experience working with data </h3>
+<h3 align="center">A passionate frontend developer/Technical writer from Nigeria skilled in Html,Css,Bootstrap,Tailwind css,Sass,Javascript,Typescript,React and Next js .I also have experience working with data </h3>
 
 - 🔭 I’m currently working on **projects on React/Next js**
 
@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects frontend projects and Blockchain projects**
 
-- 🤝 I’m looking for help with **internships and frontend job roles**
+- 🤝 I’m looking for help with **internships and frontend job roles/Technical writing roles**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adaobilynda1234](https://github.com/Adaobilynda1234)
 
