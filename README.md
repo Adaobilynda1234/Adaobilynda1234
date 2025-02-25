@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **projects on React/Next js/AI**
 
-- 🌱 I’m currently learning **Blockchain Development**
+- 🌱 I’m currently learning **Blockchain Development/Backend**
 
 - 👯 I’m looking to collaborate on **open source projects frontend projects and Blockchain projects**
 
