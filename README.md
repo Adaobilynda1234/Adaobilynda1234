@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adaobilynda1234](https://github.com/Adaobilynda1234)
 
-- 💬 Ask me about **react/Next/Blockchain**
+- 💬 Ask me about **react/Next/Blockchain/Ai**
 
 - 📫 How to reach me **adaobilynda1234@gmail.com**
 
