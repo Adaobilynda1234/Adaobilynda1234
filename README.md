@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Adaobi Okwuosa</h1>
+<h1 align="center">Hi 👋, I'm Adaobi Lynda Okwuosa</h1>
 <h3 align="center">A passionate frontend developer/Technical writer /full-stack next js developer/Ai developer  </h3>
 
-- 🔭 I’m currently working on **projects on React/Next js/AI /Blockchain Development**
+- 🔭 I’m currently working on **projects on React/Next JS/AI**
 
 - 🌱 I’m currently learning **Blockchain Development/Backend**
 
