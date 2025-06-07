@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react/Next/Blockchain/Ai**
 
-- 📫 How to reach me via email **adaobilynda1234@gmail.com**
+- 📫 How to reach me via mail **adaobilynda1234@gmail.com**
 
 - ⚡ Fun fact **I like horror movies and sad music**
 
