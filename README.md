@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects frontend projects and Blockchain projects**
 
-- 🤝 I’m looking for help with **frontend job roles/Technical writing roles**
+- 🤝 I’m looking for help with **frontend job roles/backend job roles/Technical writing roles**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adaobilynda1234](https://github.com/Adaobilynda1234)
 
