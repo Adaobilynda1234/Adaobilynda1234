@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adaobi Okwuosa</h1>
 <h3 align="center">A passionate  Fullstack developer/Technical writer / /Blockchain enthusiastic </h3>
 
-- 🔭 I’m currently working on **projects on React/Next JS/AI/Node js/Blockchain**
+- 🔭 I’m currently working on **projects on React/Next JS/AI/Node js/Devops**
 
 - 🌱 I’m currently learning **Blockchain Development and Backend**
 
