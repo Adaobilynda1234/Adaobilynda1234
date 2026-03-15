@@ -15,7 +15,7 @@
 
 - 📫 How to reach me via mail **adaobilynda1234@gmail.com**
 
-- ⚡ Fun fact **I like horror movies and sad music**
+- ⚡ Fun fact **I like horror movies **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
