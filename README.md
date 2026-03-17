@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Devops and Backend**
 
-- 👯 I’m looking to collaborate on **open source projects frontend projects and Blockchain projects**
+- 👯 I’m looking to collaborate on **open source projects frontend projects and Devops projects**
 
 - 🤝 I’m looking for help with **frontend job roles/backend job roles/Technical writing roles**
 
