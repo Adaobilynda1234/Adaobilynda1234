@@ -11,11 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adaobilynda1234](https://github.com/Adaobilynda1234)
 
-- 💬 Ask me about **react/Next/Blockchain/Ai/nodejs**
+- 💬 Ask me about **react/Next/Ai/nodejs**
 
 - 📫 How to reach me via mail **adaobilynda1234@gmail.com**
 
 - ⚡ Fun fact **I like horror movies **
+
+![Adaobilynda1234's Stats](https://github-readme-stats.vercel.app/api?username=Adaobilynda1234&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
