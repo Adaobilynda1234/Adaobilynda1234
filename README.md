@@ -19,6 +19,8 @@
 
 ![Adaobilynda1234's Stats](https://github-readme-stats.vercel.app/api?username=Adaobilynda1234&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adaobilynda1234&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mdaobi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdaobi" height="30" width="40" /></a>
