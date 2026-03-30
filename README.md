@@ -17,10 +17,9 @@
 
 - ⚡ Fun fact **I like horror movies **
 
-![Adaobilynda1234's Stats](https://github-readme-stats.vercel.app/api?username=Adaobilynda1234&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Adaobilynda1234's Stats](https://github-readme-stats-fast.vercel.app/api?username=Adaobilynda1234&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adaobilynda1234&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Adaobilynda1234&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adaobilynda1234&theme=vue-dark&hide_border=true)
 
 <h3 align="left">Connect with me:</h3>
