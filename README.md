@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **projects on React/Next JS/AI/Node js/Devops**
 
-- 🌱 I’m currently learning **Devops and Backend**
+- 🌱 I’m currently learning **Devops**
 
-- 👯 I’m looking to collaborate on **open source projects fullstack projects and Devops projects**
+- 👯 I’m looking to collaborate on **open source projects and fullstack projects **
 
-- 🤝 I’m looking for help with **frontend job roles/backend job roles/Technical writing roles**
+- 🤝 I’m looking for help with **Fullstack job roles/Technical writing roles**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adaobilynda1234](https://github.com/Adaobilynda1234)
 
