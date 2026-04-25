@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adaobi Lynda Okwuosa</h1>
 <h3 align="center">A passionate  Fullstack developer /devops enthusiastic </h3>
 
-- 🔭 I’m currently working on **projects on React/Next JS/AI/Node js/Devops**
+- 🔭 I’m currently working on **projects on React/Node js/Devops**
 
 - 🌱 I’m currently learning **Devops**
 
