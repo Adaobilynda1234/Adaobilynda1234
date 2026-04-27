@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **open source projects and fullstack projects **
 
-- 🤝 I’m looking for help with **Fullstack job roles/Technical writing roles**
+- 🤝 I’m looking for help with **Fullstack job roles/Devops roles**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adaobilynda1234](https://github.com/Adaobilynda1234)
 
